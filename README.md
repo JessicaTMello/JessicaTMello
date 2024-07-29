@@ -8,7 +8,7 @@
 
 ## Sobre mim 
 
-Sou graduada em Administração e Ciências Contábeis, com pós-graduação em Finanças e Controladoria, e possuo mais de 5 anos de experiência na área contábil. Apaixonada por planilhas e automação de processos, estou em transição para a área de Análise de Dados, especializando-me em Python, SQL E Power BI para impulsionar minha carreira e contribuir de forma mais estratégica.
+Sou graduada em Administração e Ciências Contábeis, com pós-graduação em Finanças e Controladoria, e possuo mais de 5 anos de experiência na área contábil. Apaixonada por planilhas e automação de processos, estou me especializando em Python, SQL E Power BI para impulsionar minha carreira e contribuir de forma mais estratégica.
 
 
 #
