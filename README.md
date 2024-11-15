@@ -1,7 +1,4 @@
-![capa linkedin brita (6)](https://github.com/user-attachments/assets/8aa2439d-0b5c-4502-89fd-e4d8081850b8)
-
-
-
+![Capa Github](https://github.com/user-attachments/assets/f7ac7026-bd00-4585-8e85-fbf8a948b13d)
 
 
 # Hello, eu sou a Jéssica Mello! 👋🏻
